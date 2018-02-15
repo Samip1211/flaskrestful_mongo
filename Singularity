@@ -221,6 +221,10 @@ pip install pymongo && \
 
 	pip install flask && \
 
-	pip install flask_restful
+	pip install flask_restful && \
+	
+	pip install xlrd && \
+	
+	pip install csv
 echo "ipv6" >> /etc/modules
 
